@@ -30,12 +30,6 @@
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
 </p>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
 ### Tools & Infrastructure
 
 <p>
