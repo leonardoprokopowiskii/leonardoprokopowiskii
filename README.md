@@ -39,7 +39,7 @@
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" alt="Database Skills" />
 </p>
 
 ### Tools, Cloud & DevOps
