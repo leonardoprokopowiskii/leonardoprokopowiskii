@@ -14,7 +14,7 @@
 
 - 🎓 **Software Engineering** student passionate about clean code, modern web architecture, and scalable systems.
 - 💼 Software Engineering Intern at **SPRO an NTT DATA company**.
-- 🚀 **Currently focused on**: Full-Stack Development with **React, Node.js, TypeScript, Tailwind CSS & Docker**.
+- 🚀 **Currently focused on**: Full-Stack Development with **JavaScript, TypeScript, React & Node.js**.
 - 🐍 **Also working with**: **Python & Flask** (building APIs, automations, and backend services).
 - ☁️ Hands-on experience with **Azure DevOps**, CI/CD pipelines, Git/GitHub, and enterprise workflows.
 - 🧪 Applying software engineering best practices: **RESTful APIs, Prisma ORM, automated testing (Jest), and JWT authentication**.
